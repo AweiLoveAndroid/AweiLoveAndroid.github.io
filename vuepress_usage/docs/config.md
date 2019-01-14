@@ -1,4 +1,0 @@
----
-title: configs
----
-# config Page
