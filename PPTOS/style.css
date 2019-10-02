@@ -11,51 +11,53 @@
   border: none;
 }
 body {
-  /*background: #F3E5F5;*/
-  background-size:cover;
-  width:100%;
-  height:100%;
+  background: #F3E5F5;
   font-family: 'Roboto', sans-serif;
+  /*background-size:cover;*/
+  /*width:100%;*/
+  /*height:100%;*/
 }
+
 .wrap {
   max-width: 830px;
   margin: 0 auto;
 }
+
 /*设置每个页面的背景图片*/
 .page1 {
-  background:url('https://raw.githubusercontent.com/AweiLoveAndroid/AweiLoveAndroid.github.io/master/PPTOS/img/page1.jpg')
+  background:url('img/page1.jpg')
 }
 
 .page2 {
-  background:url('https://raw.githubusercontent.com/AweiLoveAndroid/AweiLoveAndroid.github.io/master/PPTOS/img/page2.jpg')
+  background:url('img/page2.jpg')
 }
 
 .page3 {
-  background:url('https://raw.githubusercontent.com/AweiLoveAndroid/AweiLoveAndroid.github.io/master/PPTOS/img/page3.jpg')
+  background:url('img/page3.jpg')
 }
 
 .page4 {
-  background:url('https://raw.githubusercontent.com/AweiLoveAndroid/AweiLoveAndroid.github.io/master/PPTOS/img/page4.jpg')
+  background:url('img/page4.jpg')
 }
 
 .page5 {
-  background:url('https://raw.githubusercontent.com/AweiLoveAndroid/AweiLoveAndroid.github.io/master/PPTOS/img/page5.jpg')
+  background:url('img/page5.jpg')
 }
 
 .page6 {
-  background:url('https://raw.githubusercontent.com/AweiLoveAndroid/AweiLoveAndroid.github.io/master/PPTOS/img/page6.jpg')
+  background:url('img/page6.jpg')
 }
 
 .page7 {
-  background:url('https://raw.githubusercontent.com/AweiLoveAndroid/AweiLoveAndroid.github.io/master/PPTOS/img/page7.jpg')
+  background:url('img/page7.jpg')
 }
 
 .page8 {
-  background:url('https://raw.githubusercontent.com/AweiLoveAndroid/AweiLoveAndroid.github.io/master/PPTOS/img/page8.jpg')
+  background:url('img/page8.jpg')
 }
 
 .page9 {
-  background:url('https://raw.githubusercontent.com/AweiLoveAndroid/AweiLoveAndroid.github.io/master/PPTOS/img/page9.jpg')
+  background:url('img/page9.jpg')
 }
 
 h1 {
