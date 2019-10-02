@@ -20,39 +20,39 @@ body {
 }
 /*设置每个页面的背景图片*/
 .page1 {
-  background:url(img/page1.jpg)
+  background:url('https://raw.githubusercontent.com/AweiLoveAndroid/AweiLoveAndroid.github.io/master/PPTOS/img/page1.jpg')
 }
 
 .page2 {
-  background:url(img/page2.jpg)
+  background:url('https://raw.githubusercontent.com/AweiLoveAndroid/AweiLoveAndroid.github.io/master/PPTOS/img/page2.jpg')
 }
 
 .page3 {
-  background:url(img/page3.jpg)
+  background:url('https://raw.githubusercontent.com/AweiLoveAndroid/AweiLoveAndroid.github.io/master/PPTOS/img/page3.jpg')
 }
 
 .page4 {
-  background:url(img/page4.jpg)
+  background:url('https://raw.githubusercontent.com/AweiLoveAndroid/AweiLoveAndroid.github.io/master/PPTOS/img/page4.jpg')
 }
 
 .page5 {
-  background:url(img/page5.jpg)
+  background:url('https://raw.githubusercontent.com/AweiLoveAndroid/AweiLoveAndroid.github.io/master/PPTOS/img/page5.jpg')
 }
 
 .page6 {
-  background:url(img/page6.jpg)
+  background:url('https://raw.githubusercontent.com/AweiLoveAndroid/AweiLoveAndroid.github.io/master/PPTOS/img/page6.jpg')
 }
 
 .page7 {
-  background:url(img/page7.jpg)
+  background:url('https://raw.githubusercontent.com/AweiLoveAndroid/AweiLoveAndroid.github.io/master/PPTOS/img/page7.jpg')
 }
 
 .page8 {
-  background:url(img/page8.jpg)
+  background:url('https://raw.githubusercontent.com/AweiLoveAndroid/AweiLoveAndroid.github.io/master/PPTOS/img/page8.jpg')
 }
 
 .page9 {
-  background:url(img/page9.jpg)
+  background:url('https://raw.githubusercontent.com/AweiLoveAndroid/AweiLoveAndroid.github.io/master/PPTOS/img/page9.jpg')
 }
 
 h1 {
