@@ -11,7 +11,10 @@
   border: none;
 }
 body {
-  background: #F3E5F5;
+  /*background: #F3E5F5;*/
+  background-size:cover;
+  width:100%;
+  height:100%;
   font-family: 'Roboto', sans-serif;
 }
 .wrap {
