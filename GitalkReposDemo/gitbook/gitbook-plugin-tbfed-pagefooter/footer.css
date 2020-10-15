@@ -1,0 +1,18 @@
+.page-footer {
+  margin-top: 50px;
+  border-top: 1px solid #ccc;
+  overflow: hidden;
+  padding: 10px 0;
+  font-size: 12px;
+  color: #808080;
+}
+.page-footer a {
+  /* 文字加粗 */
+  font-weight: bold;
+  /* a标签颜色 */
+  color: #4183C4!important;
+  text-decoration: underline!important;
+}
+.footer-modification {
+  float: right;
+}
