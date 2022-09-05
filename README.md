@@ -9,3 +9,4 @@
 * [Flutter Web 示例页面](https://aweiloveandroid.github.io/flutter_demo)
 * [PPTOS](https://aweiloveandroid.github.io/PPTOS/)  内容来源于：https://pptos.com.cn/ ，这里略作修改。
 * [GitalkReposDemo](https://aweiloveandroid.github.io/GitalkReposDemo)
+* [自定义IDEA插件更新具体内容页面](https://aweiloveandroid.github.io/IDEAPluginUpdates)
