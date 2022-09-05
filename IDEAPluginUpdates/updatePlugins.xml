@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+    <!--    id 插件的唯一编号-->
+    <!--    url 插件存储的地址-->
+    <plugin
+            id="com.lzw.myplugin"
+            url="https://github.com/AweiLoveAndroid/MyCustomPlugin/archive/refs/tags/V0.1.1.zip"
+            version="0.1.1">
+        <!--        名称-->
+        <name>
+            demo
+        </name>
+        <!--        变动的内容-->
+        <change-notes>
+            V1.0 添加了很酷的功能
+        </change-notes>
+        <!--        插件描述-->
+        <description>
+            我的插件很棒
+        </description>
+        <!--        idea适配版本-->
+        <idea-version since-build="173.*" until-build="222.*"/>
+    </plugin>
+</plugins>
